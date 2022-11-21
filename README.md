@@ -19,3 +19,8 @@ The goal of this projects is to see how is the distribution of the customers/vie
 - viewers_birthdate: describe the birthdate of viewers
 - viewers_gender: describe the gender of viewers
 - viewers_region: describe the region of viewers
+
+## 3. DATA
+
+The file can be downloaded here :
+https://drive.google.com/drive/folders/1QG2QvrtcSwEuS2qrE_QR4fnQgJtew-uH
